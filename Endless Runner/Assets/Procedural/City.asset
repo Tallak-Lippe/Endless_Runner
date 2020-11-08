@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e2c572aa0244793b8b5fd765c8bcbf, type: 3}
+  m_Name: City
+  m_EditorClassIdentifier: 
+  defaultBiomeNames: {fileID: 0}
+  BiomeName: City
+  ground: {fileID: 8879479578478865184, guid: 04b4f853887ec43c78d24566c5ddb16b, type: 3}
+  groundPoolSize: 20
+  obstacle: {fileID: 8796093009339474975, guid: 492a4771aff424b55bfbec1245195097,
+    type: 3}
+  obstaclePoolSize: 20
