@@ -13,6 +13,7 @@ public class Player_Movement : MonoBehaviour
     void Start()
     {
         rb2D = transform.GetComponent <Rigidbody2D>();
+        jumpForce = 20f;
     }
 
     // Update is called once per frame
