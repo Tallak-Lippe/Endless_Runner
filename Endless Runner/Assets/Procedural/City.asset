@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05e2c572aa0244793b8b5fd765c8bcbf, type: 3}
   m_Name: City
   m_EditorClassIdentifier: 
-  defaultBiomeNames: {fileID: 0}
+  defaultBiomeNames: {fileID: 11400000, guid: fb2ef8ed1bd7b4b0f8fa623d9ec63255, type: 2}
   BiomeName: City
-  ground: {fileID: 8879479578478865184, guid: 04b4f853887ec43c78d24566c5ddb16b, type: 3}
+  ground: {fileID: 6172042723120086055, guid: 59ae4cd252f724b61805eb9d3e00f0e2, type: 3}
   groundPoolSize: 20
-  obstacle: {fileID: 8796093009339474975, guid: 492a4771aff424b55bfbec1245195097,
+  obstacle: {fileID: 6048200594094331713, guid: f4c462e1add674e85b280fd99360cd10,
     type: 3}
   obstaclePoolSize: 20
